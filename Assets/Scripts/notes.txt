@@ -1,0 +1,17 @@
+todo :
+
+Boutique + Personnalisation Page (Réel fonctionnement des golds + bonus etc...) (BonusAction.cs)
+
+Sprite et tout l'UI
+Responsive sur tout les écrans
+
+Navigation
+Days Played
+
+Combo > 1, et refaire l'algo parce-que c'est n'imp (voir Spawner.cs)
+
+Pubs
+Analysis
+Paiement in game (with pub or not)
+Options
+Builds

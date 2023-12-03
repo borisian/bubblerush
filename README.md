@@ -3,6 +3,7 @@ An unfinished mobile game, built with Unity.
 
 The game aims to achieve the highest score possible. To do this, identical balls must merge by touching, creating a new ball in the process. If the balls pile up and reach the top of the screen, you lose.
 
+<img src="https://github.com/Bforis/bubblerush/assets/34284864/1ade3cdb-e54a-4270-821c-924afbdc1918" alt="drawing" width="200"/>
 ![bubblerush-thumbnails](https://github.com/Bforis/bubblerush/assets/34284864/1ade3cdb-e54a-4270-821c-924afbdc1918)
 
 For each merge, you earn points that allow you to purchase powers for your next game, such as bursting three balls, changing the current selection, or destroying the largest ball on the screen.
